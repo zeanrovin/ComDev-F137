@@ -1,0 +1,12 @@
+h2,h3,h4,h5,h6,p{
+	
+	margin: 0 !important;
+	
+}
+
+.t1, .t1 tr, .t1 th, .t1 td{
+
+	border: none !important;
+}
+
+*{font-family: "Times New Roman", Georgia, Serif !important;}
